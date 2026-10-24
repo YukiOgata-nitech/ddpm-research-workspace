@@ -1,7 +1,7 @@
 ---
 project: ddpm-noise-schedule
 record_type: experiment-plan
-status: waiting
+status: pending
 created: 2026-10-24
 last_updated: 2026-10-24
 spec: ../specs/2026-10-21-schedule-comparison-spec.md
